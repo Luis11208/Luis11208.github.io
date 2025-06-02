@@ -1,0 +1,49 @@
+{
+    "categorias": [
+      { "id": "lanches", "nome": "Lanches", "imagem": "lanche.png" },
+      { "id": "salgados", "nome": "Salgados", "imagem": "https://via.placeholder.com/100?text=Salgado" },
+      { "id": "doces", "nome": "Doces", "imagem": "https://via.placeholder.com/100?text=Doce" },
+      { "id": "bolos", "nome": "Bolos", "imagem": "https://via.placeholder.com/100?text=Bolo" },
+      { "id": "bebidas", "nome": "Bebidas", "imagem": "https://via.placeholder.com/100?text=Bebida" },
+      { "id": "outros", "nome": "Outros", "imagem": "https://via.placeholder.com/100?text=Outros" }
+    ],
+    "produtos": {
+      "lanches": [
+        { "nome": "X Salada", "descricao": "Pão, carne, queijo e salada.", "preco": "R$ 12,00", "imagem": "https://via.placeholder.com/100?text=X+Salada" },
+        { "nome": "X Egg", "descricao": "Com ovo, carne e queijo.", "preco": "R$ 13,00", "imagem": "https://via.placeholder.com/100?text=X+Egg" },
+        { "nome": "X Bacon", "descricao": "Muito bacon crocante.", "preco": "R$ 15,00", "imagem": "https://via.placeholder.com/100?text=X+Bacon" },
+        { "nome": "X Tudo", "descricao": "Tudo que há de bom!", "preco": "R$ 18,00", "imagem": "https://via.placeholder.com/100?text=X+Tudo" }
+      ],
+      "salgados": [
+        { "nome": "Coxinha", "descricao": "Recheada com frango desfiado.", "preco": "R$ 6,00", "imagem": "https://via.placeholder.com/100?text=Coxinha" },
+        { "nome": "Risole", "descricao": "Presunto e queijo.", "preco": "R$ 5,50", "imagem": "https://via.placeholder.com/100?text=Risole" },
+        { "nome": "Empada", "descricao": "Frango com catupiry.", "preco": "R$ 6,00", "imagem": "https://via.placeholder.com/100?text=Empada" },
+        { "nome": "Esfiha", "descricao": "Carne ou frango, aberta.", "preco": "R$ 5,00", "imagem": "https://via.placeholder.com/100?text=Esfiha" }
+      ],
+      "doces": [
+        { "nome": "Brigadeiro", "descricao": "Doce de chocolate com granulado.", "preco": "R$ 2,00", "imagem": "https://via.placeholder.com/100?text=Brigadeiro" },
+        { "nome": "Beijinho", "descricao": "Doce de coco com açúcar.", "preco": "R$ 2,00", "imagem": "https://via.placeholder.com/100?text=Beijinho" },
+        { "nome": "Casadinho", "descricao": "Brigadeiro + Beijinho.", "preco": "R$ 3,00", "imagem": "https://via.placeholder.com/100?text=Casadinho" },
+        { "nome": "Churros", "descricao": "Recheado com doce de leite.", "preco": "R$ 4,00", "imagem": "https://via.placeholder.com/100?text=Churros" }
+      ],
+      "bolos": [
+        { "nome": "Bolo de Chocolate", "descricao": "Fofinho e molhadinho.", "preco": "R$ 5,00", "imagem": "https://via.placeholder.com/100?text=Bolo+Chocolate" },
+        { "nome": "Bolo de Fubá", "descricao": "Tradicional e macio.", "preco": "R$ 4,00", "imagem": "https://via.placeholder.com/100?text=Bolo+Fuba" },
+        { "nome": "Bolo de Cenoura", "descricao": "Com cobertura de chocolate.", "preco": "R$ 5,00", "imagem": "https://via.placeholder.com/100?text=Bolo+Cenoura" },
+        { "nome": "Bolo de Coco", "descricao": "Leve e úmido.", "preco": "R$ 5,50", "imagem": "https://via.placeholder.com/100?text=Bolo+Coco" }
+      ],
+      "bebidas": [
+        { "nome": "Refrigerante Lata", "descricao": "350ml geladinho.", "preco": "R$ 6,00", "imagem": "https://via.placeholder.com/100?text=Refri" },
+        { "nome": "Suco Natural", "descricao": "Sabores variados.", "preco": "R$ 7,00", "imagem": "https://via.placeholder.com/100?text=Suco" },
+        { "nome": "Água", "descricao": "Mineral sem gás.", "preco": "R$ 3,00", "imagem": "https://via.placeholder.com/100?text=Agua" },
+        { "nome": "Chá Gelado", "descricao": "Limão ou pêssego.", "preco": "R$ 5,00", "imagem": "https://via.placeholder.com/100?text=Cha" }
+      ],
+      "outros": [
+        { "nome": "Batata Frita", "descricao": "Crocante e douradinha.", "preco": "R$ 10,00", "imagem": "https://via.placeholder.com/100?text=Batata" },
+        { "nome": "Açaí", "descricao": "Com granola e banana.", "preco": "R$ 12,00", "imagem": "https://via.placeholder.com/100?text=Acai" },
+        { "nome": "Crepioca", "descricao": "Leve e saborosa.", "preco": "R$ 8,00", "imagem": "https://via.placeholder.com/100?text=Crepioca" },
+        { "nome": "Torrada com Requeijão", "descricao": "Simples e deliciosa.", "preco": "R$ 6,00", "imagem": "https://via.placeholder.com/100?text=Torrada" }
+      ]
+    }
+  }
+  
