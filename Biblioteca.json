@@ -1,0 +1,44 @@
+{
+  "livros": {
+    "Ficção": [
+      { "titulo": "1984", "autor": "George Orwell", "ano": 1949 },
+      { "titulo": "O Conto da Aia", "autor": "Margaret Atwood", "ano": 1985 },
+      { "titulo": "Duna", "autor": "Frank Herbert", "ano": 1965 },
+      { "titulo": "Neuromancer", "autor": "William Gibson", "ano": 1984 },
+      { "titulo": "A Guerra dos Mundos", "autor": "H. G. Wells", "ano": 1898 },
+      { "titulo": "Fundação", "autor": "Isaac Asimov", "ano": 1951 }
+    ],
+    "Não Ficção": [
+      { "titulo": "Sapiens", "autor": "Yuval Noah Harari", "ano": 2011 },
+      { "titulo": "Homo Deus", "autor": "Yuval Noah Harari", "ano": 2015 },
+      { "titulo": "O Gene", "autor": "Siddhartha Mukherjee", "ano": 2016 },
+      { "titulo": "O Andar do Bêbado", "autor": "Leonard Mlodinow", "ano": 2008 },
+      { "titulo": "Breves Respostas para Grandes Questões", "autor": "Stephen Hawking", "ano": 2018 },
+      { "titulo": "Uma Breve História do Tempo", "autor": "Stephen Hawking", "ano": 1988 }
+    ],
+    "Tecnologia": [
+      { "titulo": "Código Limpo", "autor": "Robert C. Martin", "ano": 2008 },
+      { "titulo": "O Programador Pragmático", "autor": "Andrew Hunt", "ano": 1999 },
+      { "titulo": "Estruturas de Dados e Algoritmos em Java", "autor": "Robert Lafore", "ano": 2002 },
+      { "titulo": "Java: Como Programar", "autor": "Deitel & Deitel", "ano": 2014 },
+      { "titulo": "Padrões de Projeto", "autor": "Erich Gamma et al.", "ano": 1994 },
+      { "titulo": "Clean Architecture", "autor": "Robert C. Martin", "ano": 2017 }
+    ],
+    "História": [
+      { "titulo": "Armas, Germes e Aço", "autor": "Jared Diamond", "ano": 1997 },
+      { "titulo": "Os Pilares da Terra", "autor": "Ken Follett", "ano": 1989 },
+      { "titulo": "A História da Riqueza do Homem", "autor": "Leo Huberman", "ano": 1936 },
+      { "titulo": "A Ascensão e Queda do Terceiro Reich", "autor": "William L. Shirer", "ano": 1960 },
+      { "titulo": "A Segunda Guerra Mundial", "autor": "Antony Beevor", "ano": 2012 },
+      { "titulo": "História da Filosofia", "autor": "Will Durant", "ano": 1926 }
+    ],
+    "Autoajuda": [
+      { "titulo": "O Poder do Agora", "autor": "Eckhart Tolle", "ano": 1997 },
+      { "titulo": "Quem Pensa, Enriquece", "autor": "Napoleon Hill", "ano": 1937 },
+      { "titulo": "Os 7 Hábitos das Pessoas Altamente Eficazes", "autor": "Stephen R. Covey", "ano": 1989 },
+      { "titulo": "Como Fazer Amigos e Influenciar Pessoas", "autor": "Dale Carnegie", "ano": 1936 },
+      { "titulo": "Mindset", "autor": "Carol S. Dweck", "ano": 2006 },
+      { "titulo": "A Sutil Arte de Ligar o F*da-se", "autor": "Mark Manson", "ano": 2016 }
+    ]
+  }
+}
